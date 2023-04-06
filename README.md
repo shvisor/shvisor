@@ -17,4 +17,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30"/>
 `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shvisor&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shvisor&theme=github_dark)
 
