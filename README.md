@@ -18,6 +18,8 @@
 
 `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
 
+### Моя статистика
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shvisor&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shvisor&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shvisor&theme=github_dark)
