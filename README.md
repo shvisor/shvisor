@@ -5,11 +5,4 @@
 На данный момент я аспирант образовательной платформы `"Нетологии"`. В мои задачи входит помощь студентам при выполнении задании и при изучении новых тем.
 
 ### Мои навыки
-`Java Core`, `Git`, `HTML`, `CSS`, `Intellij IDEA`, `JUnit`, `Atlassian Jira`, `Apache Maven`, `Gradle`, `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="size" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="size" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="size" height="50"/>
-          
-          
-          
-
-        
+`Java Core`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="size" height="30"/>, `Git`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="size" height="30"/>, `HTML`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="size" height="30"/>, `CSS`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="size" height="30"/>, `Intellij IDEA`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="size" height="30"/>, `JUnit`, `Atlassian Jira`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="size" height="30"/>, `Apache Maven`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="size" height="30"/>, `Gradle`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="size" height="30"/>, `Selenium`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="size" height="30"/>, `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
