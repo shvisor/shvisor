@@ -15,6 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30"/>
+
 `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shvisor&theme=github_dark)
