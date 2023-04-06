@@ -6,6 +6,15 @@
 
 ### Мои навыки
 
-`Java Core`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>, `Git`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>, `HTML`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30"/>, `CSS`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>, `Intellij IDEA`<img src="https://img.icons8.com/color/1x/intellij-idea.png" height="30"/>, `JUnit` <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="30"/>, `Atlassian Jira`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="30"/>, `Apache Maven`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30"/>, `Gradle`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30"/>, `Selenium`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30"/>, `Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<img src="https://img.icons8.com/color/1x/intellij-idea.png" height="30"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30"/>
+`Работа в команде`, `Грамотность`, `Поиск информации в интернет`, `Внимательность`, `Обучаемость`, `Здоровое любопытство`.
 
 
